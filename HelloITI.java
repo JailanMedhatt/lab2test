@@ -6,5 +6,9 @@ class HelloITI{
 	void printHelloGit(){
 		System.out.println("Hello Git");
 	}
-	
+
+	void print() {
+		
+	}
+
 }
