@@ -8,7 +8,7 @@ class HelloITI{
 	}
 
 	void print() {
-		
+		System.out.println("Hello from abdelaziz");
 	}
 
 }

@@ -3,4 +3,7 @@ class HelloWorld{
 		System.out.println("Hello world");
 	}
 	void anotherMethod(){}
+	void anotherMethod2(){
+		
+	}
 }
